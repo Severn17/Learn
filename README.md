@@ -2,4 +2,4 @@
 
 ## 目录结构
 
-### JavaScript
+### [JavaScript](https://github.com/Severn17/Learn/tree/master/JavaScript)
